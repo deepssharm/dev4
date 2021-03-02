@@ -1,0 +1,169 @@
+body{
+    background-color: #F0ECE1;
+}
+
+.content-outer {
+    height: 100%;
+}
+.main-content {
+    margin-top: 78px;
+}
+a,a:hover{
+    text-decoration: none;
+}
+.content-wrapper {
+    padding: 20px 20px;
+    width: 100%;
+    flex-grow: 1;
+}
+.leftside-bar {
+    background: #fff;
+    border-radius: 4px;
+    overflow: hidden;
+    height: -webkit-fill-available;
+}
+
+.sidebar-header {
+    background: #222222;
+    color: #000;
+}
+.sidebar-header h3 {
+    color: #FFB80C;
+    font-size: 15px;
+    padding: 10px;
+    margin: 0;
+}
+.paddingnone {
+    padding: 0;
+}
+.cricket-centerbox img{
+    width: 100%;
+}
+
+
+.whitebox {
+    background: #fff;
+}
+.highlight-box {
+    margin: 30px 0 0;
+}
+.yellowbg {
+    background-color: #FFB80C;
+    padding: 10px 0;
+}
+.highlight-box h4 {
+    margin: 0;
+    font-size: 15px;
+    padding: 0px 11px;
+}
+
+.cricket-list{
+    padding: 0;
+    margin: 0;
+}
+.cricket-list li {
+    list-style: none;
+    display: inline-flex;
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+}
+.cricket-list li:last-child{
+    border-bottom: 0;
+}
+.cricket-list li a {
+    width: 100%;
+    color: #222;
+    font-size: 13px;
+}
+a.right-icon {
+    float: right;
+    background-color: #FFB80C;
+    border-radius: 5px;
+    width: 20px !important;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    color: #000;
+}
+.lightbg{
+    background: #CED5DA;
+}
+.table-style th {
+    padding: 0 !important;
+    font-weight: 500;
+    font-size: 13px;
+}
+span.statusbox {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    display: block;
+    margin: 3px 0px 0 6px;
+}
+.active-status{
+    background-color: #198754;
+}
+.gray-status{
+    background-color: #bbbbbb;
+}
+.table-style tbody tr {
+    border-bottom: 1px solid #ccc;
+}
+.table-style tbody tr:last-child{
+    border: 0;
+}
+.table-style tbody tr td {
+    padding: 0;
+    border: 0;
+    vertical-align: middle;
+}
+
+.inPlay-title a {
+    color: #0a58ca;
+    font-weight: 600;
+    font-size: 13px;
+    margin-right: 10px;
+}
+
+.inPlay-title span {
+    font-weight: 600;
+    font-size: 13px;
+}
+.green-text{
+    color: #198754;
+}
+.gray-text{
+    color: #bbbbbb;
+}
+.table-style .numberbox {
+    text-align: center;
+    font-weight: 600;
+    padding: 5px;
+}
+.table-style .numberbox a{
+    color: #212529;
+}
+.blue-bg {
+    background: #72bbef;
+}
+.pink-bg {
+    background: #faa9ba;
+}
+.actionpin a {
+    border-radius: 50%;
+    border: 1px solid #0a58ca;
+    width: 25px;
+    height: 25px;
+    display: block;
+    text-align: center;
+    margin: 5px 0 5px 10px;
+    line-height: 25px;
+    color: #0a58ca;
+}
+
+
+.sidebar-content {
+    padding: 5px 10px;
+}
+
